@@ -71,6 +71,7 @@ body {
     flex-direction: column;
     justify-content: center;
     min-height: 100vh;
+    align-items: center;
 }
 
 button {
@@ -86,6 +87,7 @@ p {
     background-color: var(--dark-blue);
     padding: 1.5rem;
     border-radius: 0.625rem;
+    max-width: 300px;
 }
 
 .main-container img {
